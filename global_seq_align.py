@@ -1,3 +1,5 @@
+#Global sequence alignment using biopython and web app development using streamlit
+
 from Bio import pairwise2
 from Bio.pairwise2 import format_alignment
 import matplotlib.pyplot as plt
